@@ -1,3 +1,5 @@
+Hi from Luis!
+
 # EmptyApp
 
 A minimal starter template for a fullstack JavaScript application ready to be pushed to GitHub.
